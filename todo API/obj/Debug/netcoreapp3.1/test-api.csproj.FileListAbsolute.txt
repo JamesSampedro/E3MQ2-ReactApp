@@ -1,0 +1,40 @@
+C:\Users\Nin\source\repos\test-api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nin\source\repos\test-api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nin\source\repos\test-api\bin\Debug\netcoreapp3.1\test-api.exe
+C:\Users\Nin\source\repos\test-api\bin\Debug\netcoreapp3.1\test-api.deps.json
+C:\Users\Nin\source\repos\test-api\bin\Debug\netcoreapp3.1\test-api.runtimeconfig.json
+C:\Users\Nin\source\repos\test-api\bin\Debug\netcoreapp3.1\test-api.runtimeconfig.dev.json
+C:\Users\Nin\source\repos\test-api\bin\Debug\netcoreapp3.1\test-api.dll
+C:\Users\Nin\source\repos\test-api\bin\Debug\netcoreapp3.1\test-api.pdb
+C:\Users\Nin\source\repos\test-api\obj\Debug\netcoreapp3.1\test-api.AssemblyInfoInputs.cache
+C:\Users\Nin\source\repos\test-api\obj\Debug\netcoreapp3.1\test-api.AssemblyInfo.cs
+C:\Users\Nin\source\repos\test-api\obj\Debug\netcoreapp3.1\test-api.csproj.CoreCompileInputs.cache
+C:\Users\Nin\source\repos\test-api\obj\Debug\netcoreapp3.1\test-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nin\source\repos\test-api\obj\Debug\netcoreapp3.1\staticwebassets\test-api.StaticWebAssets.Manifest.cache
+C:\Users\Nin\source\repos\test-api\obj\Debug\netcoreapp3.1\staticwebassets\test-api.StaticWebAssets.xml
+C:\Users\Nin\source\repos\test-api\obj\Debug\netcoreapp3.1\scopedcss\bundle\test-api.styles.css
+C:\Users\Nin\source\repos\test-api\obj\Debug\netcoreapp3.1\test-api.RazorTargetAssemblyInfo.cache
+C:\Users\Nin\source\repos\test-api\obj\Debug\netcoreapp3.1\test-api.dll
+C:\Users\Nin\source\repos\test-api\obj\Debug\netcoreapp3.1\test-api.pdb
+C:\Users\Nin\source\repos\test-api\obj\Debug\netcoreapp3.1\test-api.genruntimeconfig.cache
+C:\Users\Nin\source\repos\test-api\obj\Debug\netcoreapp3.1\test-api.csprojAssemblyReference.cache
+C:\Users\larzt\Downloads\todo API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\larzt\Downloads\todo API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\larzt\Downloads\todo API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\larzt\Downloads\todo API\bin\Debug\netcoreapp3.1\test-api.exe
+C:\Users\larzt\Downloads\todo API\bin\Debug\netcoreapp3.1\test-api.deps.json
+C:\Users\larzt\Downloads\todo API\bin\Debug\netcoreapp3.1\test-api.runtimeconfig.json
+C:\Users\larzt\Downloads\todo API\bin\Debug\netcoreapp3.1\test-api.runtimeconfig.dev.json
+C:\Users\larzt\Downloads\todo API\bin\Debug\netcoreapp3.1\test-api.dll
+C:\Users\larzt\Downloads\todo API\bin\Debug\netcoreapp3.1\test-api.pdb
+C:\Users\larzt\Downloads\todo API\obj\Debug\netcoreapp3.1\test-api.csprojAssemblyReference.cache
+C:\Users\larzt\Downloads\todo API\obj\Debug\netcoreapp3.1\test-api.AssemblyInfoInputs.cache
+C:\Users\larzt\Downloads\todo API\obj\Debug\netcoreapp3.1\test-api.AssemblyInfo.cs
+C:\Users\larzt\Downloads\todo API\obj\Debug\netcoreapp3.1\test-api.csproj.CoreCompileInputs.cache
+C:\Users\larzt\Downloads\todo API\obj\Debug\netcoreapp3.1\test-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\larzt\Downloads\todo API\obj\Debug\netcoreapp3.1\test-api.RazorTargetAssemblyInfo.cache
+C:\Users\larzt\Downloads\todo API\obj\Debug\netcoreapp3.1\staticwebassets\test-api.StaticWebAssets.Manifest.cache
+C:\Users\larzt\Downloads\todo API\obj\Debug\netcoreapp3.1\staticwebassets\test-api.StaticWebAssets.xml
+C:\Users\larzt\Downloads\todo API\obj\Debug\netcoreapp3.1\test-api.dll
+C:\Users\larzt\Downloads\todo API\obj\Debug\netcoreapp3.1\test-api.pdb
+C:\Users\larzt\Downloads\todo API\obj\Debug\netcoreapp3.1\test-api.genruntimeconfig.cache
